@@ -1,0 +1,15 @@
+com/stanzaliving/core/base/utils/DtoUtilTest.class
+com/stanzaliving/core/base/utils/PhoneNumberUtilsTest.class
+com/stanzaliving/core/base/utils/DtoUtilTest$TestDto1.class
+com/stanzaliving/core/base/utils/FinancialYearTest.class
+com/stanzaliving/core/base/utils/DtoUtilTest$1.class
+com/stanzaliving/core/base/utils/CSVConverterTest.class
+com/stanzaliving/core/base/utils/LatLongDistanceUtilTest.class
+com/stanzaliving/core/base/utils/StanzaParseUtilsTest.class
+com/stanzaliving/core/base/utils/StringNormalizerTest.class
+com/stanzaliving/core/base/utils/DateTimeRangeTest.class
+com/stanzaliving/core/base/utils/DateUtilTest.class
+com/stanzaliving/core/base/utils/NumberToWordsEnglishTest.class
+com/stanzaliving/core/base/utils/DtoUtilTest$TestDto.class
+com/stanzaliving/core/base/utils/SecureCookieUtilTest.class
+com/stanzaliving/core/base/utils/StanzaUtilsTest.class

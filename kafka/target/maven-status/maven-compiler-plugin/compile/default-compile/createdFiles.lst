@@ -1,0 +1,5 @@
+com/stanzaliving/core/kafka/dto/KafkaDTO.class
+com/stanzaliving/core/kafka/producer/NotificationProducer$1.class
+com/stanzaliving/core/kafka/producer/NotificationProducer$2.class
+com/stanzaliving/core/kafka/consumer/BaseConsumer.class
+com/stanzaliving/core/kafka/producer/NotificationProducer.class

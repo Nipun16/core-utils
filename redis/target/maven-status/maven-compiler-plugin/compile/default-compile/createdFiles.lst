@@ -1,0 +1,4 @@
+com/stanzaliving/core/redis/service/impl/RedisLockServiceImpl.class
+com/stanzaliving/core/redis/service/RedisLockService.class
+com/stanzaliving/core/redis/service/RedisCollectionService.class
+com/stanzaliving/core/redis/service/impl/RedisCollectionServiceImpl.class

@@ -1,0 +1,5 @@
+com/stanzaliving/core/amazons3/service/impl/S3DownloadServiceImpl.class
+com/stanzaliving/core/amazons3/service/S3UploadService.class
+com/stanzaliving/core/amazons3/service/impl/S3UploadServiceImpl.class
+com/stanzaliving/core/amazons3/service/S3DownloadService.class
+com/stanzaliving/core/amazons3/util/S3Util.class

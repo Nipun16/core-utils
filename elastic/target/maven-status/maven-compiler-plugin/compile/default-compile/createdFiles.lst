@@ -1,0 +1,5 @@
+com/stanzaliving/core/elastic/repository/AbstractRepository.class
+com/stanzaliving/core/elastic/util/GeoPointUtil.class
+com/stanzaliving/core/elastic/service/impl/AbstractSearchServiceImpl.class
+com/stanzaliving/core/elastic/dto/AbstractIndexDto.class
+com/stanzaliving/core/elastic/service/AbstractSearchService.class

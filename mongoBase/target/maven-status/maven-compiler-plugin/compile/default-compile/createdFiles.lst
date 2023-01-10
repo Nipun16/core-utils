@@ -1,0 +1,8 @@
+com/stanzaliving/core/mongobase/repository/AbstractMongoRepository.class
+com/stanzaliving/core/mongobase/service/AbstractMongoService.class
+com/stanzaliving/core/mongobase/entity/AbstractMongoEntity$AbstractMongoEntityBuilder.class
+com/stanzaliving/core/mongobase/entity/MongoEventListener.class
+com/stanzaliving/core/mongobase/entity/AbstractMongoEntity.class
+com/stanzaliving/core/mongobase/service/impl/AbstractMongoServiceImpl.class
+com/stanzaliving/core/mongobase/entity/AfterSaveListener.class
+com/stanzaliving/core/mongobase/UserUtil.class
