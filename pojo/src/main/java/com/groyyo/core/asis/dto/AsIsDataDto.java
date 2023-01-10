@@ -1,0 +1,69 @@
+package com.groyyo.core.asis.dto;
+
+import java.io.Serializable;
+import java.util.Date;
+import java.util.List;
+
+import com.groyyo.core.asis.enums.POStatus;
+import com.groyyo.core.asis.enums.SiteVisitStatus;
+import com.groyyo.core.base.common.dto.AbstractDto;
+
+import com.groyyo.core.commentsservice.dto.CommentsDto;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+/**
+ * DTO to represent AsIsDrawigns data.
+ * 
+ * @author debendra.dhinda
+ */
+
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+public class AsIsDataDto extends AbstractDto implements Serializable {
+
+	private static final long serialVersionUID = 113424124141489L;
+
+	private String propertyUuid;
+
+	private String dueDate;
+	
+	private String delayReason;
+
+	private ContractorDto contractor;
+
+	private String siteVisitDate;
+
+	private String siteVisitStatus;
+	
+	private SiteVisitStatus siteVisitStatusKey;
+
+	private String poNumber;
+
+	private String poStatus;
+	private POStatus poStatusKey;
+	
+	private String asIsStartsDate;
+
+	private String asIsStatus;
+	private String asIsStatusText;
+	private String lastUpdatedAt;
+
+	private boolean allApproved;
+	
+	private boolean asIsMarkedComplted;
+	private List<AsIsDrawingsDto> asIsDrawings;
+	private List<CommentsDto> commentsDtos;
+	
+	private boolean canByPassAsis;
+
+	private boolean asisByPassDone;
+
+	private Date asisByPassDoneAt;
+
+	private String asisByPassDoneBy;
+}

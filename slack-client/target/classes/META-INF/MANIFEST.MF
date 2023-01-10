@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: slack-client
-Implementation-Version: 1.0.0
-Built-By: nipunaggarwal
-Implementation-Vendor-Id: com.groyyo.core
-Build-Jdk: 1.8.0_171
-Implementation-URL: http://www.groyyo.com/slack-client
-Created-By: Maven Integration for Eclipse
-

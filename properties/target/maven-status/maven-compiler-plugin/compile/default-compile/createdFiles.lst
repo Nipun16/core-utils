@@ -1,8 +1,8 @@
-com/stanzaliving/core/property/config/ParameterStorePropertySourceEnvironmentPostProcessor.class
-com/stanzaliving/core/property/config/ParameterStorePropertySource.class
-com/stanzaliving/core/property/manager/PropertyManager.class
+com/groyyo/core/property/manager/PropertyManager.class
+com/groyyo/core/property/config/RequestResponseFilter.class
 org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.class
-com/stanzaliving/core/property/exception/ParameterStoreParameterNotFoundRuntimeException.class
-com/stanzaliving/core/property/config/RequestResponseFilter.class
+com/groyyo/core/property/config/ParameterStorePropertySource.class
+com/groyyo/core/property/config/ParameterStorePropertySourceEnvironmentPostProcessor.class
 org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor$1.class
-com/stanzaliving/core/property/exception/ParameterStoreRuntimeException.class
+com/groyyo/core/property/exception/ParameterStoreRuntimeException.class
+com/groyyo/core/property/exception/ParameterStoreParameterNotFoundRuntimeException.class

@@ -1,7 +1,7 @@
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/stanzaliving/core/mongobase/entity/AfterSaveListener.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/stanzaliving/core/mongobase/service/impl/AbstractMongoServiceImpl.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/stanzaliving/core/mongobase/service/AbstractMongoService.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/stanzaliving/core/mongobase/entity/AbstractMongoEntity.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/stanzaliving/core/mongobase/UserUtil.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/stanzaliving/core/mongobase/repository/AbstractMongoRepository.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/stanzaliving/core/mongobase/entity/MongoEventListener.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/groyyo/core/mongobase/service/impl/AbstractMongoServiceImpl.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/groyyo/core/mongobase/repository/AbstractMongoRepository.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/groyyo/core/mongobase/entity/AbstractMongoEntity.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/groyyo/core/mongobase/entity/AfterSaveListener.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/groyyo/core/mongobase/service/AbstractMongoService.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/groyyo/core/mongobase/UserUtil.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/mongoBase/src/main/java/com/groyyo/core/mongobase/entity/MongoEventListener.java

@@ -11,13 +11,13 @@
 	<dependencies>
 
 		<dependency>
-			<groupId>com.stanzaliving.core</groupId>
+			<groupId>com.groyyo.core</groupId>
 			<artifactId>base</artifactId>
 			<version>${global.version}</version>
 		</dependency>
 
 		<dependency>
-			<groupId>com.stanzaliving.core</groupId>
+			<groupId>com.groyyo.core</groupId>
 			<artifactId>pojo</artifactId>
 			<version>${global.version}</version>
 		</dependency>
@@ -39,7 +39,7 @@
 	</dependencies>
 
 	<parent>
-		<groupId>com.stanzaliving.core</groupId>
+		<groupId>com.groyyo.core</groupId>
 		<artifactId>core-utils</artifactId>
 		<version>1.0.0</version>
 		<relativePath>..</relativePath>

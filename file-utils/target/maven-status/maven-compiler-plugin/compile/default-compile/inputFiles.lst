@@ -1,7 +1,7 @@
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/stanzaliving/core/fileutil/util/ExcelUtil.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/stanzaliving/core/fileutil/service/CSVFileUtilService.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/stanzaliving/core/fileutil/dto/CSVResponse.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/stanzaliving/core/fileutil/service/impl/CSVFileUtilServiceImpl.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/stanzaliving/core/fileutil/util/CVSUtil.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/stanzaliving/core/fileutil/dto/S3UploadResponse.java
-/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/stanzaliving/core/fileutil/util/Constants.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/groyyo/core/fileutil/service/impl/CSVFileUtilServiceImpl.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/groyyo/core/fileutil/util/ExcelUtil.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/groyyo/core/fileutil/dto/CSVResponse.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/groyyo/core/fileutil/util/Constants.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/groyyo/core/fileutil/service/CSVFileUtilService.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/groyyo/core/fileutil/util/CVSUtil.java
+/Users/nipunaggarwal/groyyo/workspaces/core-utils/file-utils/src/main/java/com/groyyo/core/fileutil/dto/S3UploadResponse.java

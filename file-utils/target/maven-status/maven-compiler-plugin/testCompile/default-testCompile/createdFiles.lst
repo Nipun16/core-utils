@@ -1,2 +1,2 @@
-com/stanzaliving/core/fileutil/testdata/GlobalTestData.class
-com/stanzaliving/core/fileutil/service/impl/CSVFileUtilServiceImplTest.class
+com/groyyo/core/fileutil/testdata/GlobalTestData.class
+com/groyyo/core/fileutil/service/impl/CSVFileUtilServiceImplTest.class

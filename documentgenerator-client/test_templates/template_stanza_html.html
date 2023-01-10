@@ -120,7 +120,7 @@
             <table>
                 <tr>
                     <td><span class="barcode">*TEST BARCODE*</span></td>
-                    <td class="right"><img class="logo" src="https://highereducationplus.com/wp-content/uploads/2019/05/Stanza.jpg" alt="logo"/></td>
+                    <td class="right"><img class="logo" src="https://highereducationplus.com/wp-content/uploads/2019/05/Groyyo.jpg" alt="logo"/></td>
                 </tr>
             </table>           
 </div>
@@ -130,12 +130,12 @@
         <tr class="address-block">
             <td></td>
             <td class="bottom right">
-                <strong>Stanza Living</strong><br/>
+                <strong>Groyyo Living</strong><br/>
                 6th floor, OSE Tower, OSE Commercial Block <br/>
                 Asset 5B, Aerocity, Delhi 110037<br/>
                 <br/>
                 <b>Phone:</b> 088603 33555<br/>
-                <b>E-Mail:</b>sales@stanzaliving.com<br/>
+                <b>E-Mail:</b>sales@groyyo.com<br/>
             </td>
         </tr>
         <tr class="address-block">
@@ -145,7 +145,7 @@
                 ${zipCode} ${city}<br/>
             </td>
             <td class="bottom right">
-                Stanza living 01. January 2020
+                Groyyo living 01. January 2020
             </td>
         </tr>
     </table>
@@ -167,7 +167,7 @@
 
         <p><b>Best regards,</b></p>
 
-        <p>Stanza Living</p>
+        <p>Groyyo Living</p>
 
         <p><b>You find more information on the second page.</b></p>
        <div class='footer'>

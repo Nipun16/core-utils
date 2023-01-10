@@ -1,5 +1,5 @@
-com/stanzaliving/documentgenerator/client/DocumentGeneratorClientApiTest.class
-com/stanzaliving/documentgenerator/client/InternalDocumentGeneratorClientApiTest.class
-com/stanzaliving/documentgenerator/client/AddressTestData.class
-com/stanzaliving/documentgenerator/client/ATLPdfTestData.class
-com/stanzaliving/documentgenerator/client/DocumentGeneratorData.class
+com/groyyo/documentgenerator/client/ATLPdfTestData.class
+com/groyyo/documentgenerator/client/InternalDocumentGeneratorClientApiTest.class
+com/groyyo/documentgenerator/client/AddressTestData.class
+com/groyyo/documentgenerator/client/DocumentGeneratorClientApiTest.class
+com/groyyo/documentgenerator/client/DocumentGeneratorData.class
