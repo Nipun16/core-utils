@@ -6,10 +6,8 @@ import com.groyyo.core.base.common.dto.ResponseDto;
 import com.groyyo.core.base.exception.GroyyoHttpException;
 import com.groyyo.core.base.exception.GroyyoSecurityException;
 import com.groyyo.core.base.http.GroyyoRestClient;
-import com.groyyo.core.security.context.SecurityContextHolder;
 import com.groyyo.core.security.service.AuthService;
 import com.groyyo.core.user.client.api.AuthClientApi;
-import com.groyyo.core.user.dto.UserProfileDto;
 
 import lombok.extern.log4j.Log4j2;
 
@@ -20,32 +18,6 @@ public class AuthServiceImpl implements AuthService {
 
 	public AuthServiceImpl(String basePath) {
 		authClientApi = new AuthClientApi(new GroyyoRestClient(basePath));
-	}
-
-	@Override
-	public ResponseDto<UserProfileDto> getUserProfile() {
-		return getUserByToken(SecurityContextHolder.getCurrentUser().getToken());
-	}
-
-	@Override
-	public ResponseDto<UserProfileDto> validateToken(String token) {
-		return getUserByToken(token);
-	}
-
-	private ResponseDto<UserProfileDto> getUserByToken(String token) {
-
-		ResponseDto<UserProfileDto> responseDto = null;
-
-		try {
-			responseDto = authClientApi.getCurrentUserByToken(token);
-		} catch (GroyyoSecurityException
-				| GroyyoHttpException e) {
-			throw e;
-		} catch (Exception e) {
-			log.error("Error getting user by token: ", e);
-		}
-
-		return responseDto;
 	}
 
 	@Override

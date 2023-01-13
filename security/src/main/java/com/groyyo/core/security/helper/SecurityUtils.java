@@ -6,7 +6,6 @@ package com.groyyo.core.security.helper;
 import com.groyyo.core.base.enums.Department;
 import com.groyyo.core.pojo.CurrentUser;
 import com.groyyo.core.security.context.SecurityContextHolder;
-import com.groyyo.core.user.enums.UserType;
 
 import lombok.experimental.UtilityClass;
 import lombok.extern.log4j.Log4j2;
@@ -93,18 +92,6 @@ public class SecurityUtils {
 		}
 
 		return department;
-	}
-
-	public static UserType getCurrentUserType() {
-		CurrentUser currentUser = getCurrentUser();
-
-		UserType userType = null;
-
-		if (currentUser != null) {
-			userType = currentUser.getUserType();
-		}
-
-		return userType;
 	}
 	
 	public static CurrentUser getCurrentUser() {
