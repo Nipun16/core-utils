@@ -402,6 +402,7 @@ com/groyyo/website/response/dto/WebsiteFlatUrlResidenceResponseDTO.class
 com/groyyo/core/leadership/dto/LeadershipFilterRequestDto.class
 com/groyyo/internet/dto/AddInternetPlanDto$AddInternetPlanDtoBuilder.class
 com/groyyo/core/oracle/integration/dto/OracleVendorTaxRegistrationDto.class
+META-INF/MANIFEST.MF
 com/groyyo/sfr/dto/propertyOnboarding/FilterPropertyDto.class
 com/groyyo/po/model/PoFinanceDetailsDto$PoFinanceDetailsDtoBuilder.class
 com/groyyo/sfr/dto/StatusDto.class
@@ -1966,6 +1967,7 @@ com/groyyo/estate_v2/dto/propertyType/ParentUuidNameDto.class
 com/groyyo/ledger/dto/SettleLedgerStatusUpdateDto$SettleLedgerStatusUpdateDtoBuilder.class
 com/groyyo/estate_v2/dto/question/DatePickerDto.class
 com/groyyo/core/payment/dto/RazorPayXDto$RazorPayXDtoBuilder.class
+META-INF/maven/com.groyyo.core/pojo/pom.xml
 com/groyyo/core/payment/enums/PaymentStatus.class
 com/groyyo/documentgenerator/constants/ContextName.class
 com/groyyo/support/dto/ReminderRuleAddDto.class
@@ -2968,6 +2970,7 @@ com/groyyo/search/medulla/dtos/ItemSearchRequetDto$ItemSearchRequetDtoBuilderImp
 com/groyyo/core/estate/dto/EstateDashboardListingDto$EstateDashboardListingDtoBuilder.class
 com/groyyo/residenceservice/Dto/OccupancyBlendedPriceDto$OccupancyBlendedPriceDtoBuilder.class
 com/groyyo/booking/dto/request/BookingDetailsRequestDto.class
+META-INF/maven/com.groyyo.core/pojo/pom.properties
 com/groyyo/collector/dto/response/IssueProgressResponseDto$IssueProgressResponseDtoBuilderImpl.class
 com/groyyo/productmix/dto/productmix/RejectReasons.class
 com/groyyo/collector/dto/BookingInvoiceTransactionDateRecordDto$1.class
