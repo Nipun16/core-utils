@@ -1,8 +1,0 @@
-com/groyyo/core/mongobase/UserUtil.class
-com/groyyo/core/mongobase/entity/AbstractMongoEntity$AbstractMongoEntityBuilder.class
-com/groyyo/core/mongobase/repository/AbstractMongoRepository.class
-com/groyyo/core/mongobase/entity/AfterSaveListener.class
-com/groyyo/core/mongobase/entity/AbstractMongoEntity.class
-com/groyyo/core/mongobase/service/impl/AbstractMongoServiceImpl.class
-com/groyyo/core/mongobase/service/AbstractMongoService.class
-com/groyyo/core/mongobase/entity/MongoEventListener.class

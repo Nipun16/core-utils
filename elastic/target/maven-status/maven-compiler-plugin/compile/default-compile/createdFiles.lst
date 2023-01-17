@@ -1,5 +1,0 @@
-com/groyyo/core/elastic/util/GeoPointUtil.class
-com/groyyo/core/elastic/service/impl/AbstractSearchServiceImpl.class
-com/groyyo/core/elastic/service/AbstractSearchService.class
-com/groyyo/core/elastic/repository/AbstractRepository.class
-com/groyyo/core/elastic/dto/AbstractIndexDto.class

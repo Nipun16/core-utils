@@ -1,5 +1,0 @@
-com/groyyo/core/amazons3/util/S3Util.class
-com/groyyo/core/amazons3/service/impl/S3UploadServiceImpl.class
-com/groyyo/core/amazons3/service/S3UploadService.class
-com/groyyo/core/amazons3/service/impl/S3DownloadServiceImpl.class
-com/groyyo/core/amazons3/service/S3DownloadService.class
