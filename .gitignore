@@ -27,7 +27,12 @@ hs_err_pid*
 .project
 .settings
 .factorypath
-target
+target/
+/target
+/target/
+target/*
+**/target
+*/target/**
 .sts4-cache
 # Idea Files
 .idea*
