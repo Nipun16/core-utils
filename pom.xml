@@ -26,6 +26,7 @@
 		<module>properties</module>
 		<module>utilservice</module>
 		<module>sqljpa</module>
+		<module>sql-postgres-jpa</module>
 		<module>quartz-jobs</module>
 		<module>location</module>
 		<module>counter-client</module>
